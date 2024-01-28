@@ -36,5 +36,6 @@ Perform hyperparameter tuning .Fine-tune the model parameters based on validatio
 Evaluate the model's performance on the test set using metrics like accuracy, precision, recall, F1 score, and ROC-AUC.
 Use confusion matrices to understand the model's performance in detecting fraud and non-fraud cases.The data is highly imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent.
 Check for signs of overfitting or underfitting.
+
 • Saving the Model:
 Here the model was saved using pickle as credit_cardModel.
